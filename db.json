@@ -1,5 +1,4 @@
-{
-  "activities": [
+[
     {
       "id": "1",
       "name": "Surf Survivor",
@@ -35,5 +34,5 @@
       "name": "Painting",
       "image": "https://artfulparent.com/wp-content/uploads/2017/01/Raised-Salt-Painting-with-Kids-1.jpg"
     }
-  ]
-}
+]
+
