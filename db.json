@@ -1,4 +1,5 @@
-[
+{
+  "activities": [
     {
       "id": "1",
       "name": "Surf Survivor",
@@ -18,6 +19,21 @@
       "id": "4",
       "name": "Spray Paint",
       "image": "https://jooinn.com/images/moon-forest-fantasy.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Family Surf",
+      "image": "https://newquayactivitycentre.co.uk/wp-content/uploads/2018/03/surfing-family-lessons-2.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Snorkel Kayak",
+      "image": "https://i2.wp.com/newquayactivitycentre.co.uk/wp-content/uploads/2018/04/product-kayaking-snorkel-kayak-tour.jpg?w=800&ssl=1"
+    },
+    {
+      "id": "7",      
+      "name": "Painting",
+      "image": "https://artfulparent.com/wp-content/uploads/2017/01/Raised-Salt-Painting-with-Kids-1.jpg"
     }
-]
-
+  ]
+}
